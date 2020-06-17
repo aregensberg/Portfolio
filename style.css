@@ -1,4 +1,9 @@
 /* Global */
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
 .Background-color {
 	background: url("https://images.unsplash.com/photo-1521381802788-d5900db802dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80") no-repeat fixed center/5%;
 	-webkit-background-size: cover;
@@ -9,15 +14,17 @@
 
 
 /* *** NAV*** */
-.teal{
+.teal {
 	background-color: rgba(206, 182, 198, 0.78);
 }
 /* *** Main*** */
+h1{
+	font-family: 'Ubuntu', sans-serif!important;
+}
 
 .jumbotron{
 	background-color: transparent;
 	font-size: medium;
-	font-family: "Arial" ;
 }
 
 /* ***Footer*** */
