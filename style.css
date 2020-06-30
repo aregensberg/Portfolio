@@ -5,7 +5,7 @@ body {
 }
 
 .Background-color {
-	background: url("https://images.unsplash.com/photo-1521381802788-d5900db802dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80") no-repeat fixed center/5%;
+	background: url("https://images.unsplash.com/photo-1521381802788-d5900db802dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80") no-repeat center/5%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
